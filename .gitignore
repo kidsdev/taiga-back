@@ -17,3 +17,6 @@ static
 .\#*
 .project
 .env
+
+.idea
+db.sqlite3
